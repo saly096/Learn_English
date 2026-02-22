@@ -1,4 +1,4 @@
-# LangPlayer - Obsidian 语言学习媒体播放器插件
+# learn_english - Obsidian 语言学习媒体播放器插件
 
 <p align="center">
   <strong>专为语言学习设计的高级媒体播放器插件</strong>
@@ -43,7 +43,7 @@
 
 4. 重启 Obsidian
 
-5. 进入 `设置` → `第三方插件` → 找到 `LangPlayer` → `启用`
+5. 进入 `设置` → `第三方插件` → 找到 `learn_english` → `启用`
 
 ### 方法二：从源码构建
 
@@ -69,8 +69,8 @@ npm run build
 ### 基本操作
 
 1. **打开播放器**
-   - 使用命令面板 (Ctrl/Cmd + P) 搜索 "LangPlayer"
-   - 或点击左侧功能区LangPlayer图标
+   - 使用命令面板 (Ctrl/Cmd + P) 搜索 "learn_english"
+   - 或点击左侧功能区learn_english图标
 
 2. **导入媒体文件**
    - 支持拖放本地视频/音频文件
@@ -100,7 +100,7 @@ npm run build
 
 ## 配置选项
 
-在 Obsidian 设置中找到 LangPlayer 选项卡：
+在 Obsidian 设置中找到 learn_english 选项卡：
 
 - **默认播放速度**: 设置默认播放速度 (0.5x - 2.0x)
 - **自动暂停**: 字幕切换时自动暂停
@@ -189,5 +189,5 @@ A: 标记的生词会自动保存到指定笔记文件，可在设置中配置�
 ---
 
 <p align="center">
-  Made with ❤️ by LangPlayer Team
+  Made with ❤️ by learn_english Team
 </p>
