@@ -36,7 +36,7 @@
 
 2. 在你的 Obsidian vault 中创建插件目录：
    ```
-   你的vault/.obsidian/plugins/langplayer/
+   你的vault/.obsidian/plugins/learn_english/
    ```
 
 3. 将下载的三个文件复制到该目录中
@@ -153,7 +153,7 @@ lang_player_new/
 ## 常见问题
 
 ### Q: 插件无法加载？
-A: 确保 `main.js`, `manifest.json`, `styles.css` 三个文件都在 `.obsidian/plugins/langplayer/` 目录中。
+A: 确保 `main.js`, `manifest.json`, `styles.css` 三个文件都在 `.obsidian/plugins/learn_english/` 目录中。
 
 ### Q: 视频无法播放？
 A: 检查视频格式是否支持，推荐使用 MP4 (H.264) 或 WebM 格式。
